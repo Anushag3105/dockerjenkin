@@ -7,3 +7,4 @@ ryuuiuiiooip
 webhook
 pollscm
 periodcally build
+multibranch pipeline
